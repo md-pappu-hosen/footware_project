@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243361519805",
+    "project_id": "rapid-flutter-ade8b",
+    "storage_bucket": "rapid-flutter-ade8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243361519805:android:197f79552a3e1e87933fd4",
+        "android_client_info": {
+          "package_name": "com.example.footware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfBDPFHZaIPcxFGy1hBL44vCivpr05XgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
